@@ -1,0 +1,11 @@
+Q) What is Linter?
+Q) What is PEP? (Python Enhancement Proposals)
+
+**> Most popular PEP is 8 (Style Guide for Python Code) -- This is rules for style guides to follow in python code.
+Can read the PEP8 documentation to know more.
+You can add autopep8 from command pallette to auto format python code in vscode
+
+**> Instead of running the code each time manually in terminal with "python name.py", we can automate using code runner extension in vscode
+shortcut to call it is "ctrl+alt+n"
+
+
